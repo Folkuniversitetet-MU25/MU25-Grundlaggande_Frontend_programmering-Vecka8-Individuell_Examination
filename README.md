@@ -1,36 +1,36 @@
 # MU25-Grundlaggande_Frontend_programmering-Vecka8-Individuell_Examination
 
-# 🧪 Individuell Examination – Grundläggande Frontend-programmering
+# Individuell Examination – Grundläggande Frontend-programmering
 
-## 🔍 Uppgift: Bygg en responsiv webbplats med JavaScript-interaktivitet
+## Uppgift: Bygg en responsiv webbplats med JavaScript-interaktivitet
 
 Du ska individuellt utveckla en **responsiv webbplats** med minst **en interaktiv funktion i JavaScript**. Syftet är att visa dina kunskaper i **HTML**, **CSS** och **JavaScript** enligt kursens mål.
 
-🕐 Du har 5 studiedagar på dig att genomföra uppgiften.  
-📅 **Deadline:** *Fredag 10 oktober kl. 22:59*  
-📍 **Redovisning:** sker fredag 10 oktober under lektionstiden, muntligt enligt schema.
+Du har 5 studiedagar på dig att genomföra uppgiften.  
+**Deadline:** *Fredag 10 oktober kl. 22:59*  
+**Redovisning:** sker fredag 10 oktober under lektionstiden, muntligt enligt schema (Timeslot schema).
 
 ---
 
-## ✅ Projektkrav
+## Projektkrav
 
-### 🌐 Innehåll
+### Innehåll
 Webbplatsen ska:
 - handla om ett valfritt ämne (t.ex. hobby, portfolio, fiktivt företag)
 - innehålla **minst en hemsida** (G)
 - innehålla **minst en undersida** (VG)
 - ha en **fungerande navigationsmeny** på alla sidor
 
-### 🔤 HTML
+### HTML
 - Använd **semantiska element**: `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`
 - Korrekt rubrikstruktur (`<h1>`, `<h2>`…)
 
-### 🎨 CSS
+### CSS
 - Stilisera webbplatsen med **extern CSS**
 - Använd **Flexbox** och/eller (Beroende på vilket betyg du siktar på) **Grid** för layout
 - Webbplatsen ska vara **responsiv**, (media queries) (fungerar på mobil, surfplatta och desktop)
 
-### 🧠 JavaScript
+### JavaScript
 Projektet ska innehålla **minst en JavaScript-funktion som skapar interaktivitet**.
 
 Exempel:
@@ -50,7 +50,7 @@ Du ska använda **moderna JavaScript-funktioner (ES6+)**, t.ex.:
 
 ---
 
-## 📁 Inlämning
+## Inlämning
 
 Lämna in:
 - Länk till ditt GitHub-repo i Azomo
@@ -83,7 +83,7 @@ Du ska under **7 minuter**:
 
 ---
 
-## 🟩 Bedömningskriterier
+## Bedömningskriterier
 
 ### Godkänt (G)
 
@@ -110,7 +110,7 @@ Du ska under **7 minuter**:
 
 ---
 
-## 💡 Tips för dig som student
+## Tips för dig som student
 
 ### Planera din tid
 
