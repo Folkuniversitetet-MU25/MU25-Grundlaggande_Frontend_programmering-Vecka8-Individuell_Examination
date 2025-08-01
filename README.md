@@ -104,7 +104,7 @@ Du ska under **7 minuter**:
 | HTML        | Flera sidor med tydlig, genomtänkt struktur                                                    |
 | CSS         | Avancerad layout med både Flexbox OCH Grid                                                     |
 | JavaScript  | Flera eller mer komplexa interaktiva funktioner                                                |
-| ES6         | Fler funktioner: t.ex. `array methods`, `template literals`, `event delegation`                |
+| ES6         | Fler funktioner: t.ex. `array methods`, `template literals`               |
 | Presentation| Tydlig, reflekterande, du kan förklara val och problem du löst                                 |
 
 ---
