@@ -39,7 +39,6 @@ Exempel:
 - Interaktiv lista eller todo-funktion
 - Kontaktformulär med validering
 - Gilla/räknare
-- Andra DOM-manipulerande funktioner
 
 Du ska använda **moderna JavaScript-funktioner (ES6+)**, t.ex.:
 - `const`, `let`
