@@ -2,7 +2,7 @@
 
 # Individuell Examination – Grundläggande Frontend-programmering
 
-## Uppgift: Bygg en responsiv webbplats med JavaScript-interaktivitet
+### Uppgift: Bygg en responsiv webbplats med JavaScript-interaktivitet
 
 Du ska individuellt utveckla en **responsiv webbplats** med minst **en interaktiv funktion i JavaScript**. Syftet är att visa dina kunskaper i **HTML**, **CSS** och **JavaScript** enligt kursens mål.
 
@@ -24,6 +24,7 @@ Webbplatsen ska:
 ### HTML
 - Använd **semantiska element**: `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`
 - Korrekt rubrikstruktur (`<h1>`, `<h2>`…)
+- Bilder ska ha **alt-texter** (tillgänglighet)
 
 ### CSS
 - Stilisera webbplatsen med **extern CSS**
@@ -31,7 +32,7 @@ Webbplatsen ska:
 - Webbplatsen ska vara **responsiv**, (media queries) (fungerar på mobil, surfplatta och desktop)
 
 ### JavaScript
-Projektet ska innehålla **minst en JavaScript-funktion som skapar interaktivitet**.
+Projektet ska innehålla **minst en egen JavaScript-funktion som skapar interaktivitet**.
 
 Exempel:
 - Visa/dölj innehåll med knapp
@@ -46,6 +47,7 @@ Du ska använda **moderna JavaScript-funktioner (ES6+)**, t.ex.:
 - `querySelector`, `addEventListener`
 - DOM-metoder: `innerHTML`, `textContent`, `classList`
 - `if/else`, `switch`, `for`/`while`
+- (VG) Array-metoder som `forEach`, `map`, `filter`
 
 ---
 
@@ -69,14 +71,16 @@ Lämna in:
 ## Utmaningar & lösningar
 - Reflektera över svårigheter och hur du löste dem
 
+## Instruktioner: hur man öppnar/kör projektet (ex. ”Öppna index.html i webbläsaren”)  
+
 ## 🎤 Presentation
 
-Du ska under **7 minuter**:
+Du ska under max **7 minuter**:
 
 - Visa upp din webbplats
 - Visa koden
 - Förklara dina tekniska val (kod)
-- Visar hur du använt webbläsarverktygen.
+- Visa hur du använt webbläsarverktygen (DevTools)  
 - Visar att du har uppfyllt examinations målen.
 - Besvara frågor från läraren
 
@@ -88,12 +92,12 @@ Du ska under **7 minuter**:
 
 | Område      | Krav                                                                 |
 |-------------|----------------------------------------------------------------------|
-| HTML        | Semantisk struktur, korrekt användning av element                   |
+| HTML        | Semantisk struktur, korrekt användning av element, alt-texter        |
 | CSS         | Grundläggande styling, layout med Flexbox eller Grid, responsivitet (media queries). Inget "går sönder". |
-| JavaScript  | En interaktiv funktion, grundläggande DOM-manipulation                            |
-| ES6         | Användning av `const`, `let`, arrow functions                       |
+| JavaScript  | En interaktiv funktion, grundläggande DOM-manipulation               |
+| ES6         | Användning av `const`, `let`, arrow functions                        |
 | Struktur    | Kod är organiserad och begriplig, kommentarer "där det behövs/vid behov"      |
-| Presentation| Tydlig genomgång av funktioner och val hur allt fungerar samt viktigaste: förståelse för din kod. |
+| Presentation| Tydlig genomgång av funktioner och tekniska val, hur allt fungerar samt viktigaste: förståelse för din kod. |
 
 ---
 
@@ -103,8 +107,8 @@ Du ska under **7 minuter**:
 |-------------|------------------------------------------------------------------------------------------------|
 | HTML        | Flera sidor med tydlig, genomtänkt struktur                                                    |
 | CSS         | Avancerad layout med både Flexbox OCH Grid                                                     |
-| JavaScript  | Flera eller mer komplexa interaktiva funktioner                                                |
-| ES6         | Fler funktioner: t.ex. `array methods`, `template literals`               |
+| JavaScript   | Flera eller mer komplexa interaktiva funktioner (t.ex. listor, filter, spel, formulärvalidering) |
+| ES6          | Fler funktioner: t.ex. array methods, template literals, destructuring                        |
 | Presentation| Tydlig, reflekterande, du kan förklara val och problem du löst                                 |
 
 ---
